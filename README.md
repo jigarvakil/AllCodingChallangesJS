@@ -1,1 +1,1 @@
-# demo
+# Java Script All Coding challanges
